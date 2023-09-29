@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+   <head>
+       <title>Live Speech Transcription</title>
+   </head>
+   <body>
+        <h1>Transcribe Audio With Flask </h1>
+        <p id="status">Connection status will show here</p>
+        <p id="transcript"></p>
+
+        <script>
+            navigator.mediaDevices.getUserMedia({ audio: true }).then((stream) => {
+            if (!MediaRecorder.isTypeSupported('audio/webm'))
+                return alert('Browser not supported')
+
+            const mediaRecorder = new MediaRecorder(stream, {
+                mimeType: 'audio/webm',
+            })
+
+            const socket = new WebSocket('ws://localhost:8080/listen')
+
+            socket.open = () => {
+                document.querySelector('#status').textContent = 'Connected'
+                mediaRecorder.addEventListener('available', async (event) => {
+                    if (event.data.size > 0 && socket.readyState == 1) {
+                        socket.send(event.data)
+                    }
+            })
+            mediaRecorder.start(250)
+            }
+
+            socket.message = (message) => {
+                const received = message.Data
+                if (received) {
+                    document.querySelector('#transcript').textContent +=  ' ' + message.data
+
+
+                }
+
+           }
+
+           })
+
+
+
+
+        </script>
+
+   </body>
+</html>
