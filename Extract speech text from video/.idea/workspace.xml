@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="121f79d2-8ecf-47f0-b4e4-ad531d672d16" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/speechtextfromvideo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Speech to text /speechtotext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Voice Recognition Bot Project1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Voice Recognition Bot Project1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Voice Recognition Bot Project1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Voice Recognition Bot Project1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Voice Recognition Bot Project1/RECORDING.WAV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Voice Recognition Bot Project1/VOICE_AS_TEXT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Voice Recognition Bot Project1/VoiceRecognitionBot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Voice Recognition Bot Project1/ZOOM0041.WAV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Voice Recognition Bot/speech recognition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Voice Recognition Bot/speech recognition1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Voice Recognition Bot/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weekday speechrecognition/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weekday speechrecognition/recording.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weekday speechrecognition/recording.wav.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/analog clock.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Speech to text /main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/qodana.sarif.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/qodana.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/.idea/pythonProject1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/greet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/me" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice Recognition Bot Project1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/you" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject2/main.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2W4R8ODTubZC3KFhBX4v9UQVLcE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Extract speech text from video" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="121f79d2-8ecf-47f0-b4e4-ad531d672d16" name="Changes" comment="" />
+      <created>1695989705935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695989705935</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
