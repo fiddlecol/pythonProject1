@@ -2,15 +2,73 @@ h1, p, input {
     font-family: 'Lato', sans-serif;
 }
 
-#speechContainer {
-    margin:30px;
-    color: green;
-}
 body {
-  background: url("../../img/Screenshot_2023-10-19_18-52-45.png");
-   width: 1000px;
+    background: url("../../img/Screenshot_2023-10-19_18-52-45.png");
+    width: 1000px;
     height: 500px;
 }
+
+header {
+    background-color: white;
+    color: rgb(0, 0, 0);
+    padding: 10px 0;
+    position: static;
+    width: 10%;
+    z-index: 100;
+    align-items: baseline;
+}
+button1 {
+    color: black;
+    border: 1px solid black;
+    background-color: deepskyblue;
+
+}
+button1:hover {
+    cursor: pointer;
+    border: 1px solid black;
+    background-color: blue;
+    color: black;
+}
+button2 {
+color: black;
+    border: 1px solid black;
+    background-color: deepskyblue;
+}
+button2:hover {
+    cursor: pointer;
+    border: 1px solid black;
+    background-color: blue;
+    color: black;
+}
+button3 {
+    color: black;
+    border: 1px solid black;
+    background-color: deepskyblue;
+}
+button3:hover {
+     cursor: pointer;
+     border: 1px solid black;
+     background-color: blue;
+     color: black;
+}
+button4 {
+color: black;
+    border: 1px solid black;
+    background-color: deepskyblue;
+}
+button4:hover {
+    cursor: pointer;
+    border: 1px solid black;
+    background-color: blue;
+    color: black;
+}
+
+#speechContainer {
+    margin-top: 20px;
+    color: green;
+    margin-left: 10px;
+}
+
 
 #submitButton {
     background-color: deepskyblue;
@@ -21,13 +79,19 @@ body {
     margin-top: 20px;
 }
 
-#submitButton:hover {
-    cursor: pointer;
+#speechContainer:hover {
+     cursor: pointer;
+
 }
 
+#submitButton:hover {
+    cursor: pointer;
+    border: 2px solid black;
+}
 
 #speechTranscriptContainer {
     margin-top: 20px;
+    margin-left: 10px;
 }
 
 #speechText {
@@ -35,5 +99,16 @@ body {
     width: 500px;
     color: darkgreen;
 }
+
+footer {
+    margin-top: 440px;
+    margin-left: 400px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
 
 
