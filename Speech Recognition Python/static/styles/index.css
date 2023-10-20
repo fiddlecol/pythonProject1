@@ -3,68 +3,31 @@ h1, p, input {
 }
 
 body {
-    background: url("../../img/Screenshot_2023-10-19_18-52-45.png");
-    width: 1000px;
-    height: 500px;
+    background-image: url("../img/Screenshot_2023-10-19_18-52-45.png");
+    position: page;
 }
 
-header {
-    background-color: white;
-    color: rgb(0, 0, 0);
-    padding: 10px 0;
-    position: static;
-    width: 10%;
-    z-index: 100;
-    align-items: baseline;
+li {
+    float: left;
+    border-radius: 10px;
+    display: inline;
+    border-right: solid black;
+    padding: 5px 10px;
+    background-color: #485F6E;
+    width: 50px;
+    margin-right: 60px;
 }
-button1 {
-    color: black;
-    border: 1px solid black;
-    background-color: deepskyblue;
-
+li:last-child {
+    border-right: none;
 }
-button1:hover {
-    cursor: pointer;
-    border: 1px solid black;
-    background-color: blue;
-    color: black;
-}
-button2 {
-color: black;
-    border: 1px solid black;
-    background-color: deepskyblue;
-}
-button2:hover {
-    cursor: pointer;
-    border: 1px solid black;
-    background-color: blue;
-    color: black;
-}
-button3 {
-    color: black;
-    border: 1px solid black;
-    background-color: deepskyblue;
-}
-button3:hover {
-     cursor: pointer;
-     border: 1px solid black;
-     background-color: blue;
-     color: black;
-}
-button4 {
-color: black;
-    border: 1px solid black;
-    background-color: deepskyblue;
-}
-button4:hover {
-    cursor: pointer;
-    border: 1px solid black;
-    background-color: blue;
-    color: black;
+ul {
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 #speechContainer {
-    margin-top: 20px;
+    margin-top: 100px;
     color: green;
     margin-left: 10px;
 }
@@ -73,8 +36,8 @@ button4:hover {
 #submitButton {
     background-color: deepskyblue;
     color: black;
-    border-radius: 5px;
-    border: none;
+    border-radius: 10px;
+    border-right: darkgreen;
     padding: 10px 30px;
     margin-top: 20px;
 }
@@ -86,7 +49,14 @@ button4:hover {
 
 #submitButton:hover {
     cursor: pointer;
-    border: 2px solid black;
+    border: 2px gold;
+    color: darkred;
+}
+
+#speechText {
+    font-size: 18px;
+    width: 500px;
+    color: limegreen;
 }
 
 #speechTranscriptContainer {
@@ -94,21 +64,12 @@ button4:hover {
     margin-left: 10px;
 }
 
-#speechText {
-    font-size: 18px;
-    width: 500px;
-    color: darkgreen;
-}
-
 footer {
-    margin-top: 440px;
+    margin-top: 300px;
     margin-left: 400px;
+    color: #485F6E;
 }
 
-img {
-  display: block;
-  margin: 0 auto;
-}
 
 
 
